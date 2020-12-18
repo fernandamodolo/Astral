@@ -1,0 +1,23 @@
+/*links pag usuario*/
+
+a.link_usuario:link, a.link_usuario:visited, a.link_usuario:active
+{
+    text-decoration: none;
+    color: white;
+}
+a.link_usuario:hover
+{
+    text-decoration: none;
+    padding: 19px 19px;
+    border-bottom: solid 4px white;
+}
+a.link_usuario.icon:hover
+{
+    padding: 4px 19px;
+    
+}
+a.link_usuario.icon
+{
+    padding: 4px 19px;
+    text-align: center;
+}

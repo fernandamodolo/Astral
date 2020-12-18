@@ -1,0 +1,175 @@
+#meusdados2{
+	width: 600px;
+	height: 730px;
+	float: center;
+	border-radius:8px;
+	border: solid 1px BLACK;
+	font-family: arial;
+}
+.nominho{
+	width: 600px;
+	height: 40px;
+	float: left;
+	text-align: left;
+	margin-top: 30px;
+
+}
+.alt_nominho{
+	width: 400px;
+	height: 40px;
+	float: right;
+	text-align: left;
+}
+.datinha{
+	width: 600px;
+	height: 40px;
+	float: left;
+	text-align: left;
+	margin-top: 15px;
+}
+.alt_datinha{
+	width: 400px;
+	height: 40px;
+	float: right;
+	text-align: left;
+
+}
+.celularzinho{
+	width: 600px;
+	height: 40px;
+	float: left;
+	text-align: left;
+	margin-top: 15px;
+}
+.alt_celularzinho{
+	width: 400px;
+	height: 40px;
+	float: right;
+	text-align: left;
+
+}
+.enderecinho{
+	width: 600px;
+	height: 40px;
+	float: left;
+	text-align: left;
+	margin-top: 15px;
+}
+
+.enderecinho2{
+	width: 600px;
+	height: 20px;
+	float: left;
+	text-align: left;
+	margin-top: 15px;
+}
+
+.alt_enderecinho{
+	width: 400px;
+	height: 40px;
+	float: right;
+	text-align: left;
+
+}
+.cpfinho{
+	width: 600px;
+	height: 40px;
+	float: left;
+	text-align: left;
+	margin-top: 15px;
+}
+
+.cpfinho2{
+	width: 600px;
+	height: 25px;
+	float: left;
+	text-align: left;
+	margin-top: 15px;
+}
+
+.alt_cpfinho{
+	width: 400px;
+	height: 40px;
+	float: right;
+	text-align: left;
+	
+}
+.cidadezinha{
+	width: 600px;
+	height: 40px;
+	float: left;
+	text-align: left;
+	margin-top: 10px;
+}
+
+.cidadezinha2{
+	width: 600px;
+	height: 30px;
+	float: left;
+	text-align: left;
+	margin-top: 10px;
+}
+
+.alt_cidadezinha{
+	width: 400px;
+	height: 40px;
+	float: right;
+	text-align: left;
+	
+}
+.emailzinho{
+	width: 600px;
+	height: 40px;
+	float: left;
+	text-align: left;
+	margin-top: 10px;
+}
+.alt_emailzinho{
+	width: 400px;
+	height: 40px;
+	float: right;
+	text-align: left;
+	
+}
+.senhazinha{
+	width: 600px;
+	height: 40px;
+	float: left;
+	text-align: left;
+	margin-top: 15px;
+}
+
+.alt_senhazinha{
+	width: 400px;
+	height: 40px;
+	float: right;
+	text-align: left;
+
+}
+.altera{
+	width: 600px;
+	height: 20px;
+	float: left;
+	text-align: rigth;
+	margin-top: 15px;
+}
+.botaosaindo{
+	font-family:Arial;
+	font-size:18px;
+	width: 100px; 
+	letter-spacing: 2px; 
+	background-color:#87CEFA; 
+	color:white; 
+	float: left; 
+	padding: 5px;
+	text-align: center; 
+	margin-right:5px; 
+	margin-left: 30px;
+	transition-duration: 1s; 
+	height:25px; 
+	border: 1px solid white; 
+	padding-bottom: 5px; 
+	padding-top: 7px;
+	text-decoration:none; 
+	border-radius: 8px;
+}

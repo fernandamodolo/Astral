@@ -1,0 +1,37 @@
+/*Alteração---------------------------------------------------------------*/
+.cad_pessoa {
+    margin: 70px auto;
+    width: 90%;
+    max-width: 500px;
+
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 45px;
+    align-items: center;
+
+    background-color: mediumpurple;
+
+    padding: 100px 64px;
+
+    border-radius: 6px;
+}
+
+.cad_pessoa input{
+    width: 100%;
+
+    margin-bottom: 4px;
+
+    padding: 10px 20px;
+
+    border-radius: 4px;
+    border: 1px #ffffff88 solid;
+}
+
+.cad_pessoa .insere {
+    background-color: transparent;
+}
+
+.cad_pessoa .button {
+    font-weight: bold;
+}
+/*-------------------------------------------------------------------------------*/

@@ -1,0 +1,13 @@
+.lado-a-lado input {
+float: left;
+position: relative;
+ height: auto;
+display: inline;
+margin-right: 30px
+}
+
+.lado-a-lado {
+    position: relative;
+height: auto;
+margin-bottom: 30px;
+}

@@ -1,0 +1,73 @@
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.css");
+
+
+/*Graficos----------------------------------------------------------------------------------------------*/
+.internas h3{
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+
+.gerar{
+    margin-bottom: 30px;
+    font-size: 20px;
+    color:  rgb(245, 158, 77);
+    padding: 20px 50px;
+    background-color: beige;
+    border: 1px solid gray;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.gerar:hover{
+    background-color: antiquewhite;
+}
+/*-------------------------------------------------------------------------------------------------------*/
+
+/*Footer--------------------------------------------------------------------------------------------------*/
+.footer{
+    width: 1200px;
+    color: #fff;
+    background-color: black;
+    padding: 20px 0;
+    text-align: center;
+}
+
+section{
+    flex: 1;
+    text-align: center;
+}
+
+section ul{
+    display: inline-block;
+    list-style-type: none;
+}
+
+section ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+section img{
+    padding-top: 30px;
+}
+
+.footer-col-1 ul{
+    list-style-type: none;
+    padding: 20px 0;
+}
+
+.footer-col-1 li{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.footer a{
+    color: #fff;
+}
+
+.inicio{
+    text-align: right;
+    margin-right: 20px;
+    font-size: 12px;
+}
